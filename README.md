@@ -1,8 +1,8 @@
 ## Hello, I'm Phao 👋
 I'm passionate to learn create something new for the world. But I'm stil new for the world of developer, but i'm not giving up. One day i will create something that shock the world ⚡⚡⚡
 
-📚 I'm currently study on Computer engineering at Chulalongkorn university  
-🌱 I’m currently learning React, Node.js, express.js  
+### 📚 I'm currently study on Computer engineering at Chulalongkorn university  
+### 🌱 I’m currently learning React, Node.js, express.js  
 <!--
 **PhoengZ/PhoengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
