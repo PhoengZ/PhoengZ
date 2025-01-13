@@ -5,6 +5,7 @@ I'm passionate to learn create something new for the world. But I'm stil new for
 ### 🌱 I’m currently learning React, Node.js, express.js  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhoengZ&show_icons=true&count_private=true&bg_color=000000" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoengZ&layout=compact&langs_count=10&bg_color=000000" />
 </p>
 
