@@ -4,9 +4,9 @@ I'm passionate to learn create something new for the world. I'm stil new for the
 ### 📚 I'm currently study on Computer engineering at Chulalongkorn university  
 ### 🌱 I’m currently learning React, Node.js, express.js  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhoengZ&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoengZ&theme=dracula&show_icons=true&hide_border=false&layout=compact" style="margin-top: 50px;" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhoengZ&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoengZ&theme=dracula&hide_border=false" />
 </p>
