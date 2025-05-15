@@ -2,7 +2,7 @@
 I'm passionate to learn create something new for the world. I'm stil new for the world of developer, but i'm not giving up. One day i will create something that shock the world ⚡⚡⚡
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phoengz&theme=onedark" alt="phoengz" />
+    <img src="https://github-profile-trophy.vercel.app/?username=phoengz&theme=onedark&rank=B,A,AA,AAA,S,SS,SSS" alt="phoengz" />
   </a>
 </p>
 
