@@ -19,7 +19,7 @@ I'm passionate to learn create something new for the world. I'm stil new for the
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoengZ&theme=dracula&hide_border=false" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoengZ&layout=compact)
 
 <!--
 **PhoengZ/PhoengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
