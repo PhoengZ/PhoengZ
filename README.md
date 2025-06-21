@@ -1,6 +1,9 @@
 ## Hello, I'm Phao 👋
 I'm passionate to learn create something new for the world. I'm stil new for the world of developer, but i'm not giving up. One day i will create something that shock the world ⚡⚡⚡  
-My portfolio: portfolio-v2-chi-lilac.vercel.app  
+
+### My portfolio 👉 
+[คุณสามารถดูผลงานของฉันได้](https://portfolio-v2-chi-lilac.vercel.app/)  
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=phoengz&theme=onedark&rank=-C,-?" alt="phoengz" />
