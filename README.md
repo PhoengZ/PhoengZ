@@ -24,5 +24,6 @@ I'm passionate to learn create something new for the world. I'm stil new for the
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoengZ&theme=dracula&hide_border=false" />
 </p>
 
-![snake gif](https://github.com/PhoengZ/PhoengZ/blob/output/github-contribution-grid-snake.gif)
+## Github Contributions  
+![snake gif](https://github.com/PhoengZ/PhoengZ/blob/output/github-snake-dark.svg)
 
