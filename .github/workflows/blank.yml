@@ -35,9 +35,8 @@ jobs:
     runs-on: ubuntu-latest
 
     timeout-minutes: 10
-
-
-
+    permissions: :
+      contents: write
     steps:
 
       # Step 1: Checkout the repository
@@ -83,7 +82,7 @@ jobs:
       - name: Deploy to Output Branch
 
         uses: peaceiris/actions-gh-pages@v3
-
+        
         with:
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
