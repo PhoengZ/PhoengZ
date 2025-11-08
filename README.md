@@ -23,7 +23,8 @@ I'm passionate to learn create something new for the world. I'm stil new for the
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoengZ&theme=dracula&hide_border=false" />
 </p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/PhoengZ/PhoengZ/output/dist/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/PhoengZ/PhoengZ/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **PhoengZ/PhoengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
