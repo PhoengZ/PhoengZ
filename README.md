@@ -4,11 +4,13 @@ I'm passionate to learn create something new for the world. I'm stil new for the
 ### My portfolio 
 [👉 Hire me](https://phaolap.vercel.app/)  
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=phoengz&theme=onedark&rank=-C,-?" alt="phoengz" />
   </a>
-</p>
+</p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PhoengZ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📚 I'm currently study on Computer engineering at Chulalongkorn university  
 
